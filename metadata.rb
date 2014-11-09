@@ -6,3 +6,4 @@ description      'Installs/Configures check-please'
 long_description 'Installs/Configures check-please'
 version          '0.1.0'
 
+depends 'windows'
